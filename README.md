@@ -1,2 +1,1 @@
-# Czechifood [![Build
-Status](https://travis-ci.org/shosanna/czechifood.svg)](https://travis-ci.org/shosanna/czechifood)
+# Czechifood [![Build Status](https://travis-ci.org/shosanna/czechifood.svg)](https://travis-ci.org/shosanna/czechifood) [![Code Climate](https://codeclimate.com/github/shosanna/czechifood/badges/gpa.svg)](https://codeclimate.com/github/shosanna/czechifood)
